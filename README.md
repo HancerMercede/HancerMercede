@@ -6,6 +6,6 @@ I work with modern .NET, Javascript, TypeScript, Node.js, Express.js, Nest.js, R
 In my day to day I use tools like Azure DevOps, SQL Sever, MariaDB, Node.js, React.js, Docker, Postman and Swagger. I enjoy to learn new things and keeping updated and growing in my career.
 
 Tools : 
+![image](https://github.com/HancerMercede/HancerMercede/assets/78920052/295e51c4-756b-4d01-9365-22541eefe239)
 
-![c-sharp](https://github.com/HancerMercede/HancerMercede/assets/78920052/1c7e4d90-9d4b-445a-b4f5-89eef2af86f6)
 
