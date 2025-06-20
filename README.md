@@ -28,6 +28,13 @@ Proactive and resolutive Software Engineer with more than 5 years of expirience,
 
 ### Back-End Development
 
+[![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/aspnet/core/)
+[![Entity Framework Core](https://img.shields.io/badge/EF_Core-68217A?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/ef/core/)
+[![Dapper](https://img.shields.io/badge/Dapper-0088CC?style=for-the-badge&logo=azure-sql-database&logoColor=white)](https://github.com/DapperLib/Dapper)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+
+
 <div align="left">
   <a href="https://learn.microsoft.com/en-us/aspnet/core/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET Core" />
