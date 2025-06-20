@@ -58,6 +58,7 @@ Proactive and resolutive Software Engineer with more than 5 years of expirience,
 [![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)](https://testing-library.com/)
 [![MSTest](https://img.shields.io/badge/MSTest-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-mstest)
 [![xUnit](https://img.shields.io/badge/xUnit-5E5E5E?style=for-the-badge&logo=.net&logoColor=white)](https://xunit.net/)
+[![NUnit](https://img.shields.io/badge/NUnit-00925F?style=for-the-badge&logo=.net&logoColor=white)](https://nunit.org/)
 
 ## 🌐 Connect With Me
 
