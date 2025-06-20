@@ -8,7 +8,7 @@ Proactive and resolutive Software Engineer with more than 5 years of expirience,
 
 ### Languages & Frameworks
 
-<div align="left" class="m-5">
+<div align="left" class="m-5 aling-items left">
   <div>
     
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer nofollow">
