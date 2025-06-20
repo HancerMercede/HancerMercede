@@ -4,6 +4,13 @@
 # About me
 Proactive and resolutive Software Engineer with more than 5 years of expirience, dedicated to add value to the team through smart and effective work. I specialize in web development using React, JavaScript, TypeScript, Node.js, .NET (C#, ASP.NET Core) Microsoft Sql Sever, Oracle and other tools. I am passionate about learning new technologies and continuously advancing my career.
 
+### Languages & Frameworks
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org)
+
+
 # 💻 Tech Stack
 
 ### Languages & Frameworks
