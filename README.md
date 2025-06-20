@@ -45,38 +45,22 @@ Proactive and resolutive Software Engineer with more than 5 years of expirience,
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
 ### DevOps & Tools
+### Tools & Platforms
 
-<div align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  </a>
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-  </a>
-  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-  </a>
-</div>
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
+[![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
 
 ### Testing
 
-<div align="flex">
-  <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
-  </a>
-  <a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white" alt="Testing Library" />
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-mstest" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/MSTest-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="MSTest" />
-  </a>
-</div>
+### Testing Tools
+
+[![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
+[![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)](https://testing-library.com/)
+[![MSTest](https://img.shields.io/badge/MSTest-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-mstest)
+[![xUnit](https://img.shields.io/badge/xUnit-5E5E5E?style=for-the-badge&logo=.net&logoColor=white)](https://xunit.net/)
 
 ## 🌐 Connect With Me
 
