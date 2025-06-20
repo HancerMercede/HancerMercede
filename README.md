@@ -9,24 +9,24 @@ Proactive and resolutive Software Engineer with more than 5 years of expirience,
 ### Languages & Frameworks
 
 <div align="left">
-  <p href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer nofollow">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  </p>
-  <p href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer nofollow">
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  </p>
-  <p href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noopener noreferrer nofollow">
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  </p>
-  <p href="https://dotnet.microsoft.com/" target="_blank" rel="noopener noreferrer nofollow">
+  </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  </p>
-  <p href="https://html.spec.whatwg.org/" target="_blank" rel="noopener noreferrer nofollow">
+  </a>
+  <a href="https://html.spec.whatwg.org/" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  </p>
-  <p href="https://www.w3.org/Style/CSS/" target="_blank" rel="noopener noreferrer nofollow">
+  </a>
+  <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  </p>
+  </a>
 </div>
 
 ### Front-End Development
