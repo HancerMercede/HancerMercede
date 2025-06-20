@@ -9,16 +9,12 @@ Proactive and resolutive Software Engineer with more than 5 years of expirience,
 ### Languages & Frameworks
 
 <div class="d-flex" align="left">
-  <div>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer nofollow" style="display:inline-block; margin-right:8px;">
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer nofollow" style="display:inline-block; margin-right:8px;">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
     </a>
-  </div>
-  <div>
-     <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer nofollow">
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   </a>
-  </div>
  
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
