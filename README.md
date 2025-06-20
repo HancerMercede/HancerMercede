@@ -121,18 +121,12 @@ I am a proactive and resolutive Software Engineer dedicated to adding value to m
   <a href="https://www.linkedin.com/in/hancer-mercedes-663766198/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/YOURTWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://dev.to/YOURDEVTO" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
-  </a>
 </div>
 
 ---
 
 <div align="center">
-  <p>⭐️ From <a href="https://github.com/YOURUSERNAME">YOURNAME</a></p>
+  <p>⭐️ From <a href="https://github.com/HancerMercede/">Hancer Mercedes</a></p>
 </div>
 
 
