@@ -2,7 +2,7 @@
 ![Blue Modern Lets Do This LinkedIn Banner](https://github.com/HancerMercede/HancerMercede/assets/78920052/300dcfd7-ee62-40ab-bb6f-3f54f4979f2e)
 
 # About me
-I am a proactive and resolutive Software Engineer dedicated to adding value to my team through smart and effective work. I specialize in modern .NET, JavaScript, TypeScript, Node.js, Express.js, Nest.js, React.js, and various other tools. I am passionate about learning new technologies and continuously advancing my career.
+Proactive and resolutive Software Engineer with more than 5 years of expirience, dedicated to add value to the team through smart and effective work. I specialize in web development using React, JavaScript, TypeScript, Node.js, .NET (C#, ASP.NET Core) Microsoft Sql Sever, Oracle and other tools. I am passionate about learning new technologies and continuously advancing my career.
 
 # 💻 Tech Stack
 
