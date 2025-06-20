@@ -9,7 +9,7 @@ Proactive and resolutive Software Engineer with more than 5 years of expirience,
 ### Languages & Frameworks
 
 <div align="left">
-<p dir="auto" >
+
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   </a>
@@ -28,7 +28,7 @@ Proactive and resolutive Software Engineer with more than 5 years of expirience,
   <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   </a>
-</p>
+
 </div>
 
 ### Front-End Development
