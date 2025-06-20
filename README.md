@@ -109,7 +109,7 @@ Proactive and resolutive Software Engineer with more than 5 years of expirience,
 
 ### Testing
 
-<div align="left">
+<div align="right">
   <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
   </a>
